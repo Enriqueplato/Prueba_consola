@@ -3,7 +3,7 @@ const char* ssid = "nombre de red";
 const char* password = "clave de red";
 int ledPin = 2; // Arduino standard is GPIO13 but lolin nodeMCU is 2 http://www.esp8266.com/viewtopic.php?f=26&t=13410#p61332
 WiFiServer server(80);
-
+//Probando
 //Configuración
 void setup() {
   //velocidad del serial
